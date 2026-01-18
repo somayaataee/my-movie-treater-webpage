@@ -1,1 +1,1 @@
-This priject is just for practice.
+This project is just for practice.
