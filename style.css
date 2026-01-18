@@ -53,10 +53,16 @@ nav ul li a{
     transform: scale(1.1);
 }
 .container .row .card .btn{
-    padding: 5px;
-    color: red;
+    padding: 10px;
+    color: white;
+    background-color: red;
     margin: 20px;
     cursor: pointer;
+    width: 30%;
+    font-size: 15px;
+    border-radius: 50px;
+    border: none;
+
    
 }
  iframe{
