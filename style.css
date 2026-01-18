@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 nav{
-    background-color: aquamarine;
+    background-color: rgb(160, 11, 11);
     padding: 10px;
     font-size: 20px;
 }
@@ -20,6 +20,18 @@ nav ul li{
 }
 nav ul li a{
     text-decoration: none;
+    color: black;
+}
+nav ul li a:hover{
+    text-decoration: underline;
+    color: white;
+}
+.head{
+    background-color: black;
+    color: white;
+    min-height: 50vh;
+    text-align: center;
+    padding-top: 50px;
 }
 .container{
     background-color: black;
